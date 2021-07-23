@@ -1,0 +1,9 @@
+.search {
+    -websit-appearance: none;
+    outline:none;
+    border:none;
+    padding:none;
+    width:150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
